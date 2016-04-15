@@ -1,0 +1,21 @@
+{
+  "name": "d3_lab",
+  "homepage": "https://github.com/mattyd2/d3_lab",
+  "authors": [
+    "Matthew Dunn <mattyd2@gmail.com>"
+  ],
+  "description": "d3 lab working with d3",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
